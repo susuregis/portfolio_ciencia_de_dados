@@ -6,10 +6,6 @@ Bem-vindo ao meu portfólio de Ciência de Dados!
 
 Olá! Meu nome é **Suelen Regina**, tenho 20 anos e sou graduanda em **Análise e Desenvolvimento de Sistemas**. Tenho me dedicado cada vez mais ao aperfeiçoamento em **Ciência de Dados** e **Inteligência Artificial**, desenvolvendo projetos práticos com o objetivo de construir um portfólio sólido, rico em conteúdo e alinhado com as demandas do mercado. Minha paixão está em áreas como **Machine Learning**, **Estatística**, **Matemática** e **Inteligência Artificial (IA)**, e é nelas que concentro meus estudos e projetos.
 
-
-<img width="500" height="285" alt="image" src="https://github.com/user-attachments/assets/6b2e4303-2cdc-4a2b-8b61-5798f4672db9" />
-
-
 ---
 
 ## Projetos
