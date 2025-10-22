@@ -54,17 +54,19 @@ O modelo obteve uma boa performance, com os seguintes resultados:
 
 #### Visualizações
 
+*Análise de Clustering com K-means.*
+
 ![Imagem 1](https://github.com/user-attachments/assets/6c394632-b77a-48eb-bd6e-95f9eeffb905)
-
-*Gráfico de Análise e Previsão de Crimes em Recife.*
-
-![Imagem 2](https://github.com/user-attachments/assets/294b8566-8ccd-428e-beff-e5c19a1a6120)
 
 *Modelo de Previsão de Crimes.*
 
+![Imagem 2](https://github.com/user-attachments/assets/294b8566-8ccd-428e-beff-e5c19a1a6120)
+
+*Gráfico de Análise e Previsão de Crimes em Recife.*
+
 ![Imagem 3](https://github.com/user-attachments/assets/fc95cbdf-1fce-4b24-8be5-7102a9c1e721)
 
-*Análise de Clustering com K-means.*
+
 
 ---
 
